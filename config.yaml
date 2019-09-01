@@ -1,0 +1,32 @@
+DefaultContentLanguage: pl
+languages:
+  en:
+    languageName: English
+    languageCode: "en-us"
+  pl:
+    languageName: Polish
+    languageCode: "pl"
+baseURL: "https://www.domada.pl/"
+title: "domada.pl"
+
+paginate: 10
+theme: "domada-pl"
+params:
+  description: "domada.pl"
+  logo: "/img/logo.svg"
+  favicon: "/img/favicon.png"
+  # feed: "/posts/index.xml"
+
+# menu:
+#   top:
+#   - name: Archive
+#     url: /posts
+#     weight: 2
+
+# disqusShortname: domada-pl-wladyka
+
+taxonomies:
+  tag: "tags"
+
+# googleAnalytics: UA-2159845-11
+disableHugoGeneratorInject: true
