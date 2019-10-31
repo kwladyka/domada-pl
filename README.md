@@ -1,0 +1,1 @@
+![](https://github.com/kwladyka/domada-pl/workflows/master%20-%3E%20gh-pages/badge.svg)
